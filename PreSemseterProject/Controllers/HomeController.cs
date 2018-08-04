@@ -2,6 +2,8 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using System.Linq;
+using PreSemseterProject.Models;
 using Microsoft.AspNetCore.Mvc;
 
 namespace PreSemseterProject.Controllers
@@ -29,6 +31,19 @@ namespace PreSemseterProject.Controllers
 
         public IActionResult Error()
         {
+            return View();
+        }
+
+        [HttpGet]
+        public ViewResult AddVolunter()
+        {
+            return View();
+        }
+
+        [HttpPost]
+        public ViewResult Addvolunter(Volunter VolInfo)
+        {
+            Repository.AddVolunter(VolInfo);
             return View();
         }
     }

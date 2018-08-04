@@ -1,0 +1,11 @@
+C:\Users\Andrew\source\repos\PreSemseterProject\PreSemseterProject\bin\Debug\netcoreapp1.1\PreSemseterProject.deps.json
+C:\Users\Andrew\source\repos\PreSemseterProject\PreSemseterProject\bin\Debug\netcoreapp1.1\PreSemseterProject.runtimeconfig.json
+C:\Users\Andrew\source\repos\PreSemseterProject\PreSemseterProject\bin\Debug\netcoreapp1.1\PreSemseterProject.runtimeconfig.dev.json
+C:\Users\Andrew\source\repos\PreSemseterProject\PreSemseterProject\bin\Debug\netcoreapp1.1\PreSemseterProject.dll
+C:\Users\Andrew\source\repos\PreSemseterProject\PreSemseterProject\bin\Debug\netcoreapp1.1\PreSemseterProject.pdb
+C:\Users\Andrew\source\repos\PreSemseterProject\PreSemseterProject\obj\Debug\netcoreapp1.1\PreSemseterProject.csprojResolveAssemblyReference.cache
+C:\Users\Andrew\source\repos\PreSemseterProject\PreSemseterProject\obj\Debug\netcoreapp1.1\PreSemseterProject.csproj.CoreCompileInputs.cache
+C:\Users\Andrew\source\repos\PreSemseterProject\PreSemseterProject\obj\Debug\netcoreapp1.1\PreSemseterProject.AssemblyInfoInputs.cache
+C:\Users\Andrew\source\repos\PreSemseterProject\PreSemseterProject\obj\Debug\netcoreapp1.1\PreSemseterProject.AssemblyInfo.cs
+C:\Users\Andrew\source\repos\PreSemseterProject\PreSemseterProject\obj\Debug\netcoreapp1.1\PreSemseterProject.dll
+C:\Users\Andrew\source\repos\PreSemseterProject\PreSemseterProject\obj\Debug\netcoreapp1.1\PreSemseterProject.pdb
